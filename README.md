@@ -3,4 +3,4 @@
 ## Technology
 #### C Language
 ## Screen Shots
-![Alt text](https://raw.githubusercontent.com/TajTanveerRaza/Tic-Tac-Toe/master/scrshots/scr1.PNG "scr1")
+![Alt text](https://github.com/TajTanveerRaza/Tic-Tac-Toe/blob/master/screenshots/scr1.PNG "scr1")
